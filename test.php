@@ -1,5 +1,5 @@
 <?php 
 
-$pdo = require 'connect.php';
+$pdo = require 'Connection.php';
 
 var_dump($pdo);
