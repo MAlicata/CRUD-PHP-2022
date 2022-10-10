@@ -2,7 +2,6 @@
 
     require 'config.php';
 
-
 class Connection
 {
     public static function make($host, $db, $user, $password, $port)
